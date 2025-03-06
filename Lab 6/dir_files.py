@@ -1,6 +1,6 @@
 import os
 
-path = '/Users/damirnurmagambetov/Desktop/study files'
+path = '/Users/indiraturgaliyeva/Desktop/study files'
 
 #Task 1
 print("Only directories:")
